@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
-  Olá!, me chamo Alison Sarto 
+  Olá! Me chamo Alison Sarto 
   <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
