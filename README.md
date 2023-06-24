@@ -7,8 +7,8 @@
 Sou Alison Sarto, um estudante do Ensino Médio apaixonado por desenvolvimento. Com 1 ano de experiência, me especializei em HTML, CSS, PHP, SQL e jQuery. Busco constantemente aprimorar minhas habilidades e criar soluções inovadoras na web. Encaro cada desafio como uma oportunidade de aprendizado e estou animado para enfrentar novos projetos emocionantes.
 
 ### 🌱 O que eu faço e o que eu fiz?
-- Landing pages de apesentação de produtos e serviços
-- ERP com controle de vendas, clientes e estoque
+- 3 Landing pages de apesentação de produtos e serviços
+- 2 ERP com controle de vendas, clientes, estoque e produção
 - Pagina de apresentação de um livro
 
 ![Rank](https://github-readme-stats.vercel.app/api?username=AlisonSarto&count_private=true&show_icons=true&hide=stars&include_all_commits=true&theme=tokyonight)
