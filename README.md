@@ -11,6 +11,6 @@ Sou um estudante do Ensino Médio apaixonado por desenvolvimento. Com 1 ano de e
 - ERP com controle de vendas, clientes, estoque e produção
 - Pagina de apresentação de um livro
 
-![Rank](https://github-readme-stats.vercel.app/api?username=AlisonSarto&show_icons=true&theme=tokyonight)
-<br>
+<!-- ![Rank](https://github-readme-stats.vercel.app/api?username=AlisonSarto&show_icons=true&theme=tokyonight)
+<br> -->
 ![Snake animation](https://github.com/AlisonSarto/AlisonSarto/blob/output/github-contribution-grid-snake.svg)
