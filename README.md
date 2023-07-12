@@ -9,7 +9,7 @@ Sou um estudante do Ensino Médio apaixonado por desenvolvimento. Com 1 ano de e
 ### 🌱 O que eu faço e o que eu fiz?
 - Landing pages de apesentação de produtos e serviços
 - ERP com controle de vendas, clientes, estoque e produção
-- Pagina de apresentação de um livro
+- Landing Page de apresentação de um livro
 
 ![gif-gato-pc-600x301](https://github.com/AlisonSarto/AlisonSarto/assets/119765430/44a906a2-c02f-41f3-b087-783d46f2dc95)
 
