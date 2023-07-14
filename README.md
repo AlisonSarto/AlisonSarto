@@ -11,6 +11,8 @@ Sou um estudante do Ensino Médio apaixonado por desenvolvimento. Com 1 ano de e
 - ERP com controle de vendas, clientes, estoque e produção
 - Landing Page de apresentação de um livro
 
+![gif-gato-pc-600x301](https://github.com/AlisonSarto/AlisonSarto/assets/119765430/44a906a2-c02f-41f3-b087-783d46f2dc95)
+
 ### 📚 Linguagens
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,8 +38,6 @@ Sou um estudante do Ensino Médio apaixonado por desenvolvimento. Com 1 ano de e
 </div>
 
 <br>
-
-![gif-gato-pc-600x301](https://github.com/AlisonSarto/AlisonSarto/assets/119765430/44a906a2-c02f-41f3-b087-783d46f2dc95)
 
 ![Rank](https://github-readme-stats.vercel.app/api?username=AlisonSarto&show_icons=true&theme=tokyonight)
 
