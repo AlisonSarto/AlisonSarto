@@ -3,7 +3,7 @@
   Hi! My name is Alison
 </h1>
 
-> I'm a high school student in love for developer. I have knowledge in HTML, CSS, PHP, SQL, jQuery (and I intend learn React, Next.js and Mobile Developer).
+> I'm a high school student in love for development. I have knowledge in HTML, CSS, PHP, SQL, jQuery (and I intend learn React, Next.js and Mobile Developer).
 
 <div>
   <img src="https://github.com/AlisonSarto/AlisonSarto/assets/119765430/44a906a2-c02f-41f3-b087-783d46f2dc95" height="180">
