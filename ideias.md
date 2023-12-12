@@ -20,3 +20,4 @@ Tambem quero dar uma experiência mais personalizada para o usuário, possibilit
 ## Lista de presentes
 - **Status**: Pensando 💭
 
+um site com cubos organizados em formato de grade separando os presentes por categorias e preços, usando um arquivo MD ou Json com base de dados
