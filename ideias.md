@@ -16,3 +16,7 @@ a estimar o tempo necessário para concluir uma tarefa, levando em consideraçã
 Usando como base a dificuldade que eu tenho para explorar o repositórios do GitHub (mesmo usando o explorador nativo), 
 pensei em fazer uma página no estilo de uma rede social, semelhante ao TikTok, pois é mais intuitivo.
 Tambem quero dar uma experiência mais personalizada para o usuário, possibilitando o uso de filtros de estrelas e linguagens predominantes
+
+## Lista de presentes
+- **Status**: Pensando 💭
+
