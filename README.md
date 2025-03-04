@@ -3,7 +3,7 @@
   Hi! My name is Alison
 </h1>
 
-> I'm a high school student in love for development. I have knowledge in HTML, CSS, PHP, SQL, jQuery (and I intend learn React, Next.js and Mobile Developer).
+> I'm a high school student in love for development. I have knowledge in HTML, CSS, PHP, SQL, jQuery (and I'm learning React native).
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64f25785b128dce3cb9d128d?variant=dark)](https://roadmap.sh)
 
